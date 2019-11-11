@@ -1,0 +1,63 @@
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\UI_Projects\_Global\obj\Debug\_Global.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\UI_Projects\_Global\obj\Debug\ArbFutureTrade.FormTrading.resources
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\UI_Projects\_Global\obj\Debug\_Global.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\UI_Projects\_Global\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\UI_Projects\_Global\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\UI_Projects\_Global\bin\Debug\SmartQuant.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\UI_Projects\_Global\obj\Debug\_Global.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\UI_Projects\_Global\obj\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\UI_Projects\_Global\obj\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade\_Global\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade\_Global\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade\_Global\bin\Debug\SmartQuant.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade\_Global\obj\Debug\_Global.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade\_Global\obj\Debug\_Global.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade\_Global\obj\Debug\_Global.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade\_Global\obj\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade\_Global\obj\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade\_Global\obj\Debug\OpenQuant.FormTrading.resources
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK\_Global\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK\_Global\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK\_Global\bin\Debug\SmartQuant.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK\_Global\obj\Debug\_Global.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK\_Global\obj\Debug\OpenQuant.FormTrading.resources
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK\_Global\obj\Debug\_Global.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK\_Global\obj\Debug\_Global.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK\_Global\obj\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK\_Global\obj\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK - 2\_Global\obj\Debug\_Global.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK - 2\_Global\obj\Debug\OpenQuant.FormTrading.resources
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK - 2\_Global\obj\Debug\_Global.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK - 2\_Global\obj\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK - 2\_Global\obj\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK - 2\_Global\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK - 2\_Global\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK - 2\_Global\bin\Debug\SmartQuant.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\TestUI_ManualTrade~~~~~~~~~~~~~~~~~~~~~~OK - 2\_Global\obj\Debug\_Global.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI\_Global\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI\_Global\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI\_Global\bin\Debug\SmartQuant.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI\_Global\obj\Debug\_Global.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI\_Global\obj\Debug\OpenQuant.FormTrading.resources
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI\_Global\obj\Debug\_Global.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI\_Global\obj\Debug\_Global.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI\_Global\obj\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI\_Global\obj\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI - 4\_Global\obj\Debug\_Global.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI - 4\_Global\obj\Debug\OpenQuant.FormTrading.resources
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI - 4\_Global\obj\Debug\_Global.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI - 4\_Global\obj\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI - 4\_Global\obj\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI - 4\_Global\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI - 4\_Global\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI - 4\_Global\bin\Debug\SmartQuant.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\Strategy_TestUI - 4\_Global\obj\Debug\_Global.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_TestUI\_Global\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_TestUI\_Global\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_TestUI\_Global\bin\Debug\SmartQuant.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_TestUI\_Global\obj\Debug\_Global.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_TestUI\_Global\obj\Debug\OpenQuant.FormTrading.resources
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_TestUI\_Global\obj\Debug\_Global.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_TestUI\_Global\obj\Debug\_Global.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_TestUI\_Global\obj\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_TestUI\_Global\obj\Debug\_Global.pdb

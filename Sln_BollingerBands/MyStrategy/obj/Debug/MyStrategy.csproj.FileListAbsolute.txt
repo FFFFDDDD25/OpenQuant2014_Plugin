@@ -1,0 +1,30 @@
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands_origin\MyStrategy\bin\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands_origin\MyStrategy\bin\Debug\MyStrategy.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands_origin\MyStrategy\obj\Debug\MyStrategy.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands_origin\MyStrategy\obj\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands_origin\MyStrategy\obj\Debug\MyStrategy.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands\MyStrategy\obj\Debug\MyStrategy.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands\MyStrategy\obj\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands\MyStrategy\obj\Debug\MyStrategy.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands\MyStrategy\bin\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands\MyStrategy\bin\Debug\MyStrategy.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_Reverse\MyStrategy\bin\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_Reverse\MyStrategy\bin\Debug\MyStrategy.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_Reverse\MyStrategy\obj\Debug\MyStrategy.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_Reverse\MyStrategy\obj\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_Reverse\MyStrategy\obj\Debug\MyStrategy.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_BB\MyStrategy\bin\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_BB\MyStrategy\bin\Debug\MyStrategy.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_BB\MyStrategy\obj\Debug\MyStrategy.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_BB\MyStrategy\obj\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_BB\MyStrategy\obj\Debug\MyStrategy.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\Strategy_BollingerBands\MyStrategy\bin\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\Strategy_BollingerBands\MyStrategy\bin\Debug\MyStrategy.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\Strategy_BollingerBands\MyStrategy\obj\Debug\MyStrategy.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\Strategy_BollingerBands\MyStrategy\obj\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\Strategy_BollingerBands\MyStrategy\obj\Debug\MyStrategy.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_BollingerBands\MyStrategy\obj\Debug\MyStrategy.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_BollingerBands\MyStrategy\obj\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_BollingerBands\MyStrategy\obj\Debug\MyStrategy.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_BollingerBands\MyStrategy\bin\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_BollingerBands\MyStrategy\bin\Debug\MyStrategy.pdb

@@ -1,0 +1,166 @@
+using System;
+using System.Drawing;
+using System.Threading;
+using SmartQuant;
+using SmartQuant.Indicators;
+using System.Threading.Tasks;
+using OpenQuant;
+using OpenQunatFunction;
+
+namespace OpenQuant
+{
+    public class Strategy_TestUI : InstrumentStrategy
+    {
+        static bool isSubscribed = false;
+        protected override void OnStrategyStart()
+        {
+            lock (this)
+            {
+                if (isSubscribed)
+                {
+                    return;
+                }
+                else
+                {
+                    isSubscribed = true;
+                    _Global.formTrading.OnSendOrder += SendOrder;
+                    _Global.formTrading.OnCancelOrder += CancelOrder;
+                }
+            }
+        }
+
+        public Strategy_TestUI(Framework framework, string name)
+            : base(framework, name)
+        {
+        }
+
+        public void CancelOrder(Order order)
+        {
+            Cancel(order);
+        }
+
+        public void SendOrder(Instrument inst, OrderType ot, OrderSide os, int qty, double price)
+        {
+            Order order = null;
+
+
+            if (os == OrderSide.Buy)
+            {
+                if (ot == OrderType.Market)
+                    order = BuyOrder(inst, qty, "ui test");
+                else if (ot == OrderType.Limit)
+                    order = BuyLimit(inst, qty, price, "ui test");
+            }
+            else if (os == OrderSide.Sell)
+            {
+                if (ot == OrderType.Market)
+                    order = SellOrder(inst, qty, "ui test");
+                else if (ot == OrderType.Limit)
+                    order = SellLimit(inst, qty, price, "ui test");
+            }
+
+            OQFunc.SendOrder(order, this);
+            _Global.formTrading.AddOrder(order);
+
+
+        }
+
+        public void AddDatabase(Instrument instrument, DataObject obj)
+        {
+
+                DataSeries database = DataManager.GetDataSeries(instrument.Symbol);
+                if (database == null)
+                    database = DataManager.AddDataSeries(instrument.Symbol);
+
+                database.Add(obj);
+        }
+
+        protected override void OnBid(Instrument instrument, Bid bid)
+        {
+            _Global.formTrading.AddInstrument(instrument);
+        }
+
+        protected override void OnAsk(Instrument instrument, Ask ask)
+        {
+            _Global.formTrading.AddInstrument(instrument);
+        }
+
+        protected override void OnTrade(Instrument instrument, Trade trade)
+        {
+            //不放code   測試OnAsk/OnBid有被觸發  會自動存在instrument裡面
+        }
+
+        protected override void OnLevel2(Instrument instrument, Level2Snapshot snapshot)
+        {
+            //_Global.formTrading.AddInstrument(instrument);  //註解掉  測試OnAsk/OnBid有被觸發
+            _Global.formTrading.AddLevel2(instrument, snapshot);
+        }
+
+        protected override void OnPositionChanged(Position position)
+        {
+            _Global.formTrading.AddStrategyPosition(position);
+        }
+
+        protected override void OnStrategyStop()
+        {
+            _Global.formTrading.Close();
+        }
+
+        protected override void OnAccountData(AccountData accountData)
+        {
+            //string msg = "OnAccountData at " + Instrument + " Account: " + accountData.Account + " fieldsCount: " + accountData.Fields.Count;
+            //foreach (AccountDataField field in accountData.Fields)
+            //    msg += " " + field.Name + " " + field.Value;
+            // Console.WriteLine(msg);
+
+            string symbol = "";
+            int? size = null;
+
+            foreach (AccountDataField field in accountData.Fields)
+            {
+                if (field.Name == "symbol")
+                    symbol = field.Value.ToString();
+                else if (field.Name == "size")
+                    size = int.Parse(field.Value.ToString());
+            }
+
+            if (symbol != "" && size != null)
+                _Global.formTrading.AddRealPosition(symbol, int.Parse(size.ToString()));
+        }
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//private void GetAccountData(byte providerId)
+//{
+//    AccountDataSnapshot data = this.framework.AccountDataManager.GetSnapshot(providerId, providerId);
+
+//    if (data != null && data.Entries.Length != 0)
+//    {
+//        Console.WriteLine("AccountDataSnapshot, records count " + data.Entries.Length);
+
+//        foreach (AccountDataEntry entry in data.Entries)
+//        {
+//            Console.WriteLine("Account:" + entry.Account);
+//            Console.WriteLine("Values Fields Count :" + entry.Values.Fields.Count);
+//            Console.WriteLine("Positions Length:" + entry.Positions.Length);
+//            Console.WriteLine("Orders Length:" + entry.Orders.Length);
+//        }
+//    }
+//    else
+//        Console.WriteLine("AccountDataSnapshot no data");
+//}

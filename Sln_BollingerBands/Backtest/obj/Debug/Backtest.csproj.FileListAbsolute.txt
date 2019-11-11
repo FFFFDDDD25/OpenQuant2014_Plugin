@@ -1,0 +1,48 @@
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands_origin\Backtest\bin\Debug\Backtest.exe
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands_origin\Backtest\bin\Debug\Backtest.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands_origin\Backtest\bin\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands_origin\Backtest\bin\Debug\MyStrategy.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands_origin\Backtest\obj\Debug\Backtest.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands_origin\Backtest\obj\Debug\Backtest.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands_origin\Backtest\obj\Debug\Backtest.exe
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands_origin\Backtest\obj\Debug\Backtest.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands\Backtest\obj\Debug\Backtest.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands\Backtest\obj\Debug\Backtest.exe
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands\Backtest\obj\Debug\Backtest.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands\Backtest\bin\Debug\Backtest.exe
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands\Backtest\bin\Debug\Backtest.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands\Backtest\bin\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands\Backtest\bin\Debug\MyStrategy.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\BollingerBands\Backtest\obj\Debug\Backtest.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_Reverse\Backtest\bin\Debug\Backtest.exe
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_Reverse\Backtest\bin\Debug\Backtest.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_Reverse\Backtest\bin\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_Reverse\Backtest\bin\Debug\MyStrategy.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_Reverse\Backtest\obj\Debug\Backtest.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_Reverse\Backtest\obj\Debug\Backtest.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_Reverse\Backtest\obj\Debug\Backtest.exe
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_Reverse\Backtest\obj\Debug\Backtest.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_BB\Backtest\bin\Debug\Backtest.exe
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_BB\Backtest\bin\Debug\Backtest.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_BB\Backtest\bin\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_BB\Backtest\bin\Debug\MyStrategy.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_BB\Backtest\obj\Debug\Backtest.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_BB\Backtest\obj\Debug\Backtest.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_BB\Backtest\obj\Debug\Backtest.exe
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Strategy_BB\Backtest\obj\Debug\Backtest.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\Strategy_BollingerBands\Backtest\bin\Debug\Backtest.exe
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\Strategy_BollingerBands\Backtest\bin\Debug\Backtest.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\Strategy_BollingerBands\Backtest\bin\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\Strategy_BollingerBands\Backtest\bin\Debug\MyStrategy.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\Strategy_BollingerBands\Backtest\obj\Debug\Backtest.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\Strategy_BollingerBands\Backtest\obj\Debug\Backtest.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\Strategy_BollingerBands\Backtest\obj\Debug\Backtest.exe
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\Strategy_BollingerBands\Backtest\obj\Debug\Backtest.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_BollingerBands\Backtest\bin\Debug\Backtest.exe
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_BollingerBands\Backtest\bin\Debug\Backtest.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_BollingerBands\Backtest\bin\Debug\MyStrategy.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_BollingerBands\Backtest\bin\Debug\MyStrategy.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_BollingerBands\Backtest\obj\Debug\Backtest.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_BollingerBands\Backtest\obj\Debug\Backtest.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_BollingerBands\Backtest\obj\Debug\Backtest.exe
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_BollingerBands\Backtest\obj\Debug\Backtest.pdb

@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OpenQuant
+{
+    public  static class _Global
+    {
+        public static ClearLog.Logger log = new ClearLog.Logger("TestUI");
+        public static FormTrading formTrading = new FormTrading();
+        public static string isLive = "Y";
+    }
+}

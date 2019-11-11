@@ -1,0 +1,24 @@
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\Deribit\bin\Release\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\Deribit\bin\Release\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\Deribit\bin\Release\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\Deribit\bin\Release\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\Deribit\bin\Release\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\Deribit\bin\Release\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\Deribit\bin\Release\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\Deribit\bin\Release\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\Deribit\obj\Release\Deribit.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\Deribit\obj\Release\Deribit.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\Deribit\obj\Release\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\Deribit\obj\Release\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\Deribit\bin\Release\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\Deribit\bin\Release\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\Deribit\bin\Release\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\Deribit\bin\Release\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\Deribit\bin\Release\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\Deribit\bin\Release\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\Deribit\bin\Release\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\Deribit\bin\Release\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\Deribit\obj\Release\Deribit.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\Deribit\obj\Release\Deribit.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\Deribit\obj\Release\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\Deribit\obj\Release\SmartQuant.DB.pdb

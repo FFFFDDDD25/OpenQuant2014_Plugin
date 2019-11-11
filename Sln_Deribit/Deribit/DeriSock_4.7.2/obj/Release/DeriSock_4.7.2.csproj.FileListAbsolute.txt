@@ -1,0 +1,20 @@
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\DeriSock_4.7.2\bin\Release\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\DeriSock_4.7.2\bin\Release\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\DeriSock_4.7.2\bin\Release\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\DeriSock_4.7.2\bin\Release\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\DeriSock_4.7.2\bin\Release\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\DeriSock_4.7.2\bin\Release\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\DeriSock_4.7.2\obj\Release\DeriSock_4.7.2.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\DeriSock_4.7.2\obj\Release\DeriSock_4.7.2.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\DeriSock_4.7.2\obj\Release\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\DeriSock_4.7.2\obj\Release\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\DeriSock_4.7.2\bin\Release\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\DeriSock_4.7.2\bin\Release\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\DeriSock_4.7.2\bin\Release\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\DeriSock_4.7.2\bin\Release\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\DeriSock_4.7.2\bin\Release\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\DeriSock_4.7.2\bin\Release\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\DeriSock_4.7.2\obj\Release\DeriSock_4.7.2.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\DeriSock_4.7.2\obj\Release\DeriSock_4.7.2.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\DeriSock_4.7.2\obj\Release\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\DeriSock_4.7.2\obj\Release\DeriSock_4.7.2.pdb

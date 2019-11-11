@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{93B1EAE2-1DFB-4009-8153-80A0DBE93916}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DeriSock_4._7._2</RootNamespace>
+    <AssemblyName>DeriSock_4.7.2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Converter\IJsonConverter.cs" />
+    <Compile Include="Converter\ListJsonConverter.cs" />
+    <Compile Include="Converter\ObjectJsonConverter.cs" />
+    <Compile Include="DeribitApiV2.cs" />
+    <Compile Include="Events\EventResponseReceivedEventArgs.cs" />
+    <Compile Include="Events\MessageReceivedEventArgs.cs" />
+    <Compile Include="Events\MessageResponseReceivedEventArgs.cs" />
+    <Compile Include="Exceptions\WebSocketAlreadyConnectedException.cs" />
+    <Compile Include="Exceptions\WebSocketNotConnectedException.cs" />
+    <Compile Include="Extensions\LongExtensions.cs" />
+    <Compile Include="Extensions\StringExtensions.cs" />
+    <Compile Include="InvalidResponseException.cs" />
+    <Compile Include="JsonRpcRequest.cs" />
+    <Compile Include="JsonRpcResponse.cs" />
+    <Compile Include="JsonRpcWebSocketClient.cs" />
+    <Compile Include="JToken_Try_Parse_Function.cs" />
+    <Compile Include="Model\AccountSummaryResponse.cs" />
+    <Compile Include="Model\AuthResponse.cs" />
+    <Compile Include="Model\BookResponse.cs" />
+    <Compile Include="Model\BuySellResponse.cs" />
+    <Compile Include="Model\ChartFtuResponse.cs" />
+    <Compile Include="Model\EventParams.cs" />
+    <Compile Include="Model\EventResponse.cs" />
+    <Compile Include="Model\FtuTwcResponse.cs" />
+    <Compile Include="Model\InstrumentInfo.cs" />
+    <Compile Include="Model\JsonRpcError.cs" />
+    <Compile Include="Model\LastTrade.cs" />
+    <Compile Include="Model\OrderBookResponse.cs" />
+    <Compile Include="Model\OrderBookRow.cs" />
+    <Compile Include="Model\OrderInfo.cs" />
+    <Compile Include="Model\OrderItem.cs" />
+    <Compile Include="Model\OrderResponse.cs" />
+    <Compile Include="Model\OrderType.cs" />
+    <Compile Include="Model\PortfolioResponse.cs" />
+    <Compile Include="Model\QuoteResponse.cs" />
+    <Compile Include="Model\RawBookResponse.cs" />
+    <Compile Include="Model\RestResponse.cs" />
+    <Compile Include="Model\SellResponse.cs" />
+    <Compile Include="Model\SettlementInformation.cs" />
+    <Compile Include="Model\SettlementResponse.cs" />
+    <Compile Include="Model\TestResponse.cs" />
+    <Compile Include="Model\TickerResponse.cs" />
+    <Compile Include="Model\TickerStats.cs" />
+    <Compile Include="Model\TradesResponse.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserChange.cs" />
+    <Compile Include="Utils\MessageInfo.cs" />
+    <Compile Include="Utils\SubscriptionEntry.cs" />
+    <Compile Include="Utils\SubscriptionState.cs" />
+    <Compile Include="Utils\TaskInfo.cs" />
+    <Compile Include="Utils\TypedTaskInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\_Global\_Global.csproj">
+      <Project>{1e6eb1be-bcfc-44f0-aeda-c7639ad68b89}</Project>
+      <Name>_Global</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

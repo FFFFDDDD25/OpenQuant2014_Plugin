@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\我的SampleProviders\Deribit-standard\Deribit-framwork\bin\Debug\Deribit-framwork.dll
+C:\Users\lenovo\Desktop\我的SampleProviders\Deribit-standard\Deribit-framwork\bin\Debug\Deribit-framwork.pdb
+C:\Users\lenovo\Desktop\我的SampleProviders\Deribit-standard\Deribit-framwork\bin\Debug\DeriSock.dll
+C:\Users\lenovo\Desktop\我的SampleProviders\Deribit-standard\Deribit-framwork\bin\Debug\DeriSock.pdb
+C:\Users\lenovo\Desktop\我的SampleProviders\Deribit-standard\Deribit-framwork\obj\Debug\Deribit-framwork.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\我的SampleProviders\Deribit-standard\Deribit-framwork\obj\Debug\Deribit-framwork.csproj.CopyComplete
+C:\Users\lenovo\Desktop\我的SampleProviders\Deribit-standard\Deribit-framwork\obj\Debug\Deribit-framwork.dll
+C:\Users\lenovo\Desktop\我的SampleProviders\Deribit-standard\Deribit-framwork\obj\Debug\Deribit-framwork.pdb
+C:\Users\lenovo\Desktop\我的SampleProviders\Deribit-standard\Deribit-framwork\bin\Debug\SmartQuant.dll
+C:\Program Files\SmartQuant Ltd\OpenQuant 2014\Deribit-framwork.dll
+C:\Program Files\SmartQuant Ltd\OpenQuant 2014\Deribit-framwork.pdb

@@ -1,0 +1,105 @@
+C:\Users\lenovo\Desktop\我的SampleProviders\Deribit-standard\Deribit-framwork\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\我的SampleProviders\Deribit-standard\Deribit-framwork\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\我的SampleProviders\Deribit-standard\Deribit-framwork\obj\Debug\Deribit-framwork.dll
+C:\Users\lenovo\Desktop\我的SampleProviders\Deribit-standard\Deribit-framwork\obj\Debug\Deribit-framwork.pdb
+C:\Users\fprop.tw\Desktop\TCPSendAndReceiveFile\20190826 我的SampleProviders\Deribit - new\Deribit-framwork\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\fprop.tw\Desktop\TCPSendAndReceiveFile\20190826 我的SampleProviders\Deribit - new\Deribit-framwork\obj\Debug\Deribit_2019Aug.csproj.CoreCompileInputs.cache
+C:\Users\fprop.tw\Desktop\TCPSendAndReceiveFile\20190826 我的SampleProviders\Deribit - new\Deribit-framwork\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\fprop.tw\Desktop\TCPSendAndReceiveFile\20190826 我的SampleProviders\Deribit - new\Deribit-framwork\obj\Debug\Deribit-framwork.dll
+C:\Users\fprop.tw\Desktop\TCPSendAndReceiveFile\20190826 我的SampleProviders\Deribit - new\Deribit-framwork\obj\Debug\Deribit-framwork.pdb
+C:\Users\lenovo\Desktop\我的SampleProviders\Deribit - new\Deribit - standard 0826下班\Deribit-framwork\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\我的SampleProviders\Deribit - new\Deribit - standard 0826下班\Deribit-framwork\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\我的SampleProviders\Deribit - new\Deribit - standard 0826下班\Deribit-framwork\obj\Debug\Deribit-framwork.dll
+C:\Users\lenovo\Desktop\我的SampleProviders\Deribit - new\Deribit - standard 0826下班\Deribit-framwork\obj\Debug\Deribit-framwork.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\Deribit - new\Deribit-framwork\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\Deribit - new\Deribit-framwork\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\Deribit - new\Deribit-framwork\obj\Debug\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\Deribit - new\Deribit-framwork\obj\Debug\SmartQuant.DB.pdb
+C:\Users\fprop.tw\Desktop\MySampleProviders\Deribit\Deribit-framwork\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\fprop.tw\Desktop\MySampleProviders\Deribit\Deribit-framwork\obj\Debug\Deribit_2019Aug.csproj.CoreCompileInputs.cache
+C:\Users\fprop.tw\Desktop\MySampleProviders\Deribit\Deribit-framwork\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\fprop.tw\Desktop\MySampleProviders\Deribit\Deribit-framwork\obj\Debug\SmartQuant.DB.dll
+C:\Users\fprop.tw\Desktop\MySampleProviders\Deribit\Deribit-framwork\obj\Debug\SmartQuant.DB.pdb
+C:\Users\fprop.tw\Desktop\MySampleProviders\Deribit\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\fprop.tw\Desktop\MySampleProviders\Deribit\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CoreCompileInputs.cache
+C:\Users\fprop.tw\Desktop\MySampleProviders\Deribit\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\fprop.tw\Desktop\MySampleProviders\Deribit\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\fprop.tw\Desktop\MySampleProviders\Deribit\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\Deribit\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\Deribit\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\Deribit\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\Deribit\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OriginBackUp\Deribit_VM\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OriginBackUp\Deribit_VM\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OriginBackUp\Deribit_VM\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Users\Program Files\SmartQuant Ltd\OpenQuant 2014\NLog.config
+C:\Users\Program Files\SmartQuant Ltd\OpenQuant 2014\SmartQuant.DB.dll
+C:\Users\Program Files\SmartQuant Ltd\OpenQuant 2014\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OriginBackUp\Deribit_VM\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 2\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 2\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 2\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 2\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\AllProvider\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\AllProvider\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\AllProvider\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\All_Providers_換原本Derisock_Deribit嘗試用IPC - 3\AllProvider\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Users\v\Desktop\OpenQuantPlugins\AllProvider\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\v\Desktop\OpenQuantPlugins\AllProvider\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CoreCompileInputs.cache
+C:\Users\v\Desktop\OpenQuantPlugins\AllProvider\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\v\Desktop\OpenQuantPlugins\AllProvider\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\v\Desktop\OpenQuantPlugins\AllProvider\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Program Files\SmartQuant Ltd\OpenQuant 2014\SmartQuant.DB.dll
+C:\Program Files\SmartQuant Ltd\OpenQuant 2014\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins\AllProvider\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins\AllProvider\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins\AllProvider\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins\AllProvider\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Users\v\Documents\OpenQuantPlugins - edit - new\AllProvider\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\v\Documents\OpenQuantPlugins - edit - new\AllProvider\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\v\Documents\OpenQuantPlugins - edit - new\AllProvider\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\v\Documents\OpenQuantPlugins - edit - new\AllProvider\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\程式碼  OpenQuantPlugins\AllProvider\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\程式碼  OpenQuantPlugins\AllProvider\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\程式碼  OpenQuantPlugins\AllProvider\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\程式碼  OpenQuantPlugins\AllProvider\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\AllProvider\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\AllProvider\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\AllProvider\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\AllProvider\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers - 大改\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers - 大改\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers - 大改\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers - 大改\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\Deribit_2019Aug\obj\Debug\Deribit_2019Aug.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\Deribit_2019Aug\obj\Debug\SmartQuant.DB.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\Deribit_2019Aug\obj\Debug\SmartQuant.DB.pdb

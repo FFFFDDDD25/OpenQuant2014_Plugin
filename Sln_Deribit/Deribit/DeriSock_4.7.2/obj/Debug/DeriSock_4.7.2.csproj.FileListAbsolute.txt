@@ -1,0 +1,79 @@
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\bin\Debug\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\bin\Debug\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.pdb
+C:\Users\v\Documents\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\bin\Debug\DeriSock_4.7.2.dll
+C:\Users\v\Documents\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\bin\Debug\DeriSock_4.7.2.pdb
+C:\Users\v\Documents\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\bin\Debug\_Global.dll
+C:\Users\v\Documents\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\bin\Debug\_Global.pdb
+C:\Users\v\Documents\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v\Documents\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.csprojAssemblyReference.cache
+C:\Users\v\Documents\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.csproj.CopyComplete
+C:\Users\v\Documents\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.dll
+C:\Users\v\Documents\OpenQuantPlugins - edit - new\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\bin\Debug\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\bin\Debug\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\bin\Debug\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\bin\Debug\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\AllProvider\DeriSock_4.7.2\bin\Debug\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\AllProvider\DeriSock_4.7.2\bin\Debug\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\AllProvider\DeriSock_4.7.2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\AllProvider\DeriSock_4.7.2\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\AllProvider\DeriSock_4.7.2\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\AllProvider\DeriSock_4.7.2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\AllProvider\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\DeriSock_4.7.2\bin\Debug\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\DeriSock_4.7.2\bin\Debug\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\DeriSock_4.7.2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\DeriSock_4.7.2\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\DeriSock_4.7.2\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\DeriSock_4.7.2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers - 大改\DeriSock_4.7.2\bin\Debug\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers - 大改\DeriSock_4.7.2\bin\Debug\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers - 大改\DeriSock_4.7.2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers - 大改\DeriSock_4.7.2\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers - 大改\DeriSock_4.7.2\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers - 大改\DeriSock_4.7.2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers - 大改\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers - 大改\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers - 大改\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers - 大改\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\DeriSock_4.7.2\bin\Debug\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\DeriSock_4.7.2\bin\Debug\DeriSock_4.7.2.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\DeriSock_4.7.2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\DeriSock_4.7.2\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\DeriSock_4.7.2\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\DeriSock_4.7.2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\DeriSock_4.7.2\obj\Debug\DeriSock_4.7.2.pdb

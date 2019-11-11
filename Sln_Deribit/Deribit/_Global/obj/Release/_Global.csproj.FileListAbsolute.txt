@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\_Global\bin\Release\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\_Global\bin\Release\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\_Global\obj\Release\_Global.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\_Global\obj\Release\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers_Github\Provider\_Global\obj\Release\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\_Global\bin\Release\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\_Global\bin\Release\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\_Global\obj\Release\_Global.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\_Global\obj\Release\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\OpenQuant2014_Plugin_Github\Sln_Deribit\Deribit\_Global\obj\Release\_Global.pdb

@@ -1,0 +1,25 @@
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins\AllProvider\_Global\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins\AllProvider\_Global\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins\AllProvider\_Global\obj\Debug\_Global.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins\AllProvider\_Global\obj\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins\AllProvider\_Global\obj\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\_Global\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\_Global\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\_Global\obj\Debug\_Global.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\_Global\obj\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\All_Providers\OpenQuantPlugins - edit - new\AllProvider\_Global\obj\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\_Global\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\_Global\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\_Global\obj\Debug\_Global.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\_Global\obj\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\AllProvider\_Global\obj\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\_Global\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\_Global\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\_Global\obj\Debug\_Global.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\_Global\obj\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\Public_Github\All_Providers\_Global\obj\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\_Global\bin\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\_Global\bin\Debug\_Global.pdb
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\_Global\obj\Debug\_Global.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\_Global\obj\Debug\_Global.dll
+C:\Users\lenovo\Desktop\MySampleProviders\ALL\資料\程式碼  OpenQuantPlugins\All_Providers\_Global\obj\Debug\_Global.pdb
